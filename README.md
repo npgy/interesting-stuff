@@ -6,4 +6,5 @@
 - [Svelte](https://svelte.dev/) -- React alternative that builds your stateful web app to tiny vanilla JS
 - [SurrealDB](https://surrealdb.com/) -- Multi-paradigm database that makes JOINS on relational data WAYYYY easier
 - [Docusaurus](https://github.com/facebook/docusaurus) -- Quickly build a documentation/blog/site
+- [VanillaBreeze](https://www.vanillabreeze.dev/) -- Convert Tailwind CSS to Semantic CSS
 - [Bore](https://github.com/ekzhang/bore) -- Simple tunneling solution written in Rust
