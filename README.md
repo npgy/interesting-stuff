@@ -8,3 +8,4 @@
 - [Docusaurus](https://github.com/facebook/docusaurus) -- Quickly build a documentation/blog/site
 - [VanillaBreeze](https://www.vanillabreeze.dev/) -- Convert Tailwind CSS to Semantic CSS
 - [Bore](https://github.com/ekzhang/bore) -- Simple tunneling solution written in Rust
+- [Oh Shit, Git!?!](https://ohshitgit.com/) -- Contains solutions to common mistakes in git
